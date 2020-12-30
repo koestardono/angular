@@ -120,6 +120,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "kustar"
+    }
+  },
+  "defaultProject": "kustar",
+  "cli": {
+    "analytics": false
+  }
 }
