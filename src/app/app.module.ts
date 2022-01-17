@@ -8,12 +8,7 @@ import { CucuComponent } from './cucu/cucu.component';
 import { LoginComponent } from './authentication/login.component';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    XyzComponent,
-    CucuComponent,
-    LoginComponent
-  ],
+  declarations: [AppComponent, XyzComponent, CucuComponent, LoginComponent],
   imports: [
     BrowserModule,
     AppRoutingModule
